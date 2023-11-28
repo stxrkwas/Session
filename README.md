@@ -13,6 +13,8 @@ A primeira página a ser aberta pelo usuário é a que contém a tela de login, 
     <img src="" alt="Demonstração" width="1280" height="580">
 </div>
 
-## @@[Cookies](https://github.com/stxrkwas/Cookies.git)@@
+```diff
+##@@ [Cookies](https://github.com/stxrkwas/Cookies.git) @@
+```
 Atividade anterior que foi utilizada como base para a realização dessa atividade.
 
