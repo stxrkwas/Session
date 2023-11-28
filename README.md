@@ -17,7 +17,7 @@ A primeira página a ser aberta pelo usuário é a que contém a tela de login, 
 
 
 <h2 style="color: white;"><a href="https://github.com/stxrkwas/Cookies.git">Cook</a></h2>
-##[{c:#ffffff}Cookies{/c}](https://github.com/stxrkwas/Cookies.git)
+##{c:#ffffff}[Cookies](https://github.com/stxrkwas/Cookies.git){/c}
 
 Atividade anterior que foi utilizada como base para a realização dessa atividade.
 
