@@ -1,7 +1,7 @@
 # Session
 
 <div align="center">
-<img src="TelaLogin.png" width="300">
+<img src="https://github.com/stxrkwas/Session/blob/cde27618d41c42dde46bcecaa8f023d81ccea545/README/TelaLogin.png" width="300">
 </div>
 
 ## Descrição
