@@ -10,5 +10,9 @@ A primeira página a ser aberta pelo usuário é a que contém a tela de login, 
 
 ## Demonstração
 <div align="center">
-    <img src="https://github.com/stxrkwas/Cookies/blob/d85d8b2947af06be694d16f7dd11d899f99b2af5/Tela-de-Login-com-Cookies.gif" alt="Demonstração" width="1280" height="580">
+    <img src="" alt="Demonstração" width="1280" height="580">
 </div>
+
+## [Cookies]()
+Atividade anterior que foi utilizada como base para a realização dessa atividade.
+
